@@ -74,7 +74,7 @@ Here’s a quick overview of the key topics I plan to cover:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/Scala-Programming.git
+    git clone https://github.com/Kuliyalrashmi/Scala-Programming.git
     ```
 
 2. Install Scala (if not already installed):
